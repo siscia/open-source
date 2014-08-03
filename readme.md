@@ -2,7 +2,7 @@ This document aim to be a syntetization of the paper:
 
 ['Barriers faced by newcomers to open source projects: a systematic review'][paper]
 
-Hopefully it will be helpfull to open source maintainers.
+Hopefully it will be helpful to open source maintainers.
 
 # Barriers
 - Social Interaction
@@ -16,7 +16,7 @@ Hopefully it will be helpfull to open source maintainers.
 
 It is very important that the core members of the community are very close to the newcomer.
 
-**Takeaway:** If you are a core member of the project and somebody new ask a question even if she already got a response, make feel her welcome anyway. Maybe ask her personally to do some little work.
+**Takeaway:** If you are a core member of the project and somebody new ask a question even if she already got a response, make her feel welcome anyway. Maybe ask her personally to do some little work.
 
 ### Receiving (timely and proper) response
 
@@ -40,15 +40,15 @@ Find the appropriate task to do is hard, the community expect that a newcomer wi
 
 ### Finding the correct artifact to fix an issue
 
-There are infinte way to address the same issues, but few way that makes really sense in your project, newcomers don't yet know those way.
+There are infinite way to address the same issues, but few way that makes really sense in your project, newcomers don't yet know those way.
 
-**Takeaway:** If you had a discussion about a particular issue or if you read some reasource, or if you code a prototype point those artifact to the newcomer.
+**Takeaway:** If you had a discussion about a particular issue or if you read some resource, or if you code a prototype point those artifact to the newcomer.
 
 ## Code Issues
 
 ### Dealing with Code Complexity/Instability
 
-The more complex is the code the harder is to contribuite.
+The more complex is the code the harder is to contribute.
 
 **Takeaway:** Keep the code as simple as possible (obviously) and explain how and why the complex things are complex.
 
@@ -70,7 +70,7 @@ It is very important to be able to get start as quickly as possible, nobody like
 
 Outdated documentation is a waste of time for everybody.
 
-**Takeaway:** Be sure that is very clear at what version of the project a documentation page is refering, consider eliminate documentation that is refering to a deprecate version.
+**Takeaway:** Be sure that is very clear at what version of the project a documentation page is referring, consider eliminate documentation that is referring to a deprecate version.
 
 ### Information Overload
 
@@ -86,6 +86,22 @@ A confusing comment is worse than no comment at all.
 
 ## Newcomer's Previous Experience
 
+### Lacking of Process and Practises
 
+Newcomers need also to learn how to submit patches or make suggestion, it can be discourage.
+
+**Takeaway** Make sure that is obvious how to contribute to the project, a contributing page is always necessary.
+
+### Lacking of Domain Expertise
+
+Newcomers who haven't work on similar project before can found very difficult to contribute.
+
+**Takeaway:** Try to point people toward a problems they already know.
+
+### Lacking of Technical Expertise
+
+Not every task demand the same level of expertness, less expert coders should starting out with simple task.
+
+**Takeaway:** Direct the less skilled coder to easier problem, it is a win-win scenario, they will feel accomplished when their patch is accept and you won't waste time reviewing a sub-optimal solution.
 
 [paper]: http://www.igor.pro.br/publica/papers/OSS2014.pdf
