@@ -50,9 +50,42 @@ There are infinte way to address the same issues, but few way that makes really 
 
 The more complex is the code the harder is to contribuite.
 
-**Takeaway:** Keep the code as simple as possible (obviously) and explain how and why those things are complex.
+**Takeaway:** Keep the code as simple as possible (obviously) and explain how and why the complex things are complex.
 
 ### Understanding the Project Structure/Architecture
+
+Understand the whole project is hard, harder than understand the sum of all the little module that compose the project.
+
+**Takeaway:** Build a document (text or image) that explain what is flow of the information in the program, will help to understand what is happening in the code.
+
+### Setting up Local Work Space
+
+It is very important to be able to get start as quickly as possible, nobody likes to dig in old mailist archive to understand only how to run the code.
+
+**Takeaway:** Keep a list of the action to do in order to get the system up and running.
+
+## Documentation Problem
+
+### Outdated Documentation
+
+Outdated documentation is a waste of time for everybody.
+
+**Takeaway:** Be sure that is very clear at what version of the project a documentation page is refering, consider eliminate documentation that is refering to a deprecate version.
+
+### Information Overload
+
+A rich documentation is necessary, a crowed documentation will just slow down.
+
+**Takeaway:** Organize your documentation with the same effort you organize your code, don't write a ton of pages without organize them in a coherent corpus.
+
+### Code Comments not Clear
+
+A confusing comment is worse than no comment at all.
+
+**Takeaway:** Remember that code is suppose to be read by humans first and foremost, then by machine.
+
+## Newcomer's Previous Experience
+
 
 
 [paper]: http://www.igor.pro.br/publica/papers/OSS2014.pdf
