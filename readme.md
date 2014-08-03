@@ -22,6 +22,15 @@ It is very important that the core members of the community are very close to th
 
 __“nearly 80% of newbie posts received replies, and that receiving timely responses, especially within 48 hours, was positively correlated with future participation.”__
 
-**Takeaway:** Reply fast to any new question, is better to
+**Takeaway:** Reply fast to any new question, if you cannot reply right at the moment at least let her know that you are thinking about the issue.
+
+### Finding mentorship/expertise
+
+The easier is to find a mentor the more probable is that the newcomer will remain involved in the project.
+
+**Takeaway:** Personally nurture the newcomers, make them feel involved and explain to them why something is been made the way it is. It definitely takes a lot of effort, but if the newcomers become a core member of the project it will be worth a thousand times.
+
+## Finding a Way to Start
+
 
 [paper]: http://www.igor.pro.br/publica/papers/OSS2014.pdf
