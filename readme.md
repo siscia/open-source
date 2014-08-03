@@ -1,8 +1,6 @@
-This document aim to be a syntetization of the paper:
+This document aim to be a summary of the paper:
 
 ['Barriers faced by newcomers to open source projects: a systematic review'][paper]
-
-Hopefully it will be helpful to open source maintainers.
 
 # Barriers
 - Social Interaction
@@ -10,7 +8,7 @@ Hopefully it will be helpful to open source maintainers.
 - Documentation Problems
 - Newcomers' Previous Experience
 
-## Social Interaction
+# Social Interaction
 
 ### Socializing with the project members
 
@@ -30,7 +28,7 @@ The easier is to find a mentor the more probable is that the newcomer will remai
 
 **Takeaway:** Personally nurture the newcomers, make them feel involved and explain to them why something is been made the way it is. It definitely takes a lot of effort, but if the newcomers become a core member of the project it will be worth a thousand times.
 
-## Finding a Way to Start
+# Finding a Way to Start
 
 ### Finding Appropriate Issue/Task
 
@@ -44,7 +42,7 @@ There are infinite way to address the same issues, but few way that makes really
 
 **Takeaway:** If you had a discussion about a particular issue or if you read some resource, or if you code a prototype point those artifact to the newcomer.
 
-## Code Issues
+# Code Issues
 
 ### Dealing with Code Complexity/Instability
 
@@ -64,7 +62,7 @@ It is very important to be able to get start as quickly as possible, nobody like
 
 **Takeaway:** Keep a list of the action to do in order to get the system up and running.
 
-## Documentation Problem
+# Documentation Problem
 
 ### Outdated Documentation
 
@@ -84,7 +82,7 @@ A confusing comment is worse than no comment at all.
 
 **Takeaway:** Remember that code is suppose to be read by humans first and foremost, then by machine.
 
-## Newcomer's Previous Experience
+# Newcomer's Previous Experience
 
 ### Lacking of Process and Practises
 
